@@ -38,6 +38,16 @@ function addClick() {
 	// localStorage.setItem("urls", JSON.stringify(urls));	
 }
 
+
+document.addEventListener('DOMContentLoaded', function () {
+  
+  let button = document.getElementById("addButton");
+  button.addEventListener('click', addClick);
+ 
+});
+
+
+
 function loadUrls() {
 	console.log('loadUrls')
 	// 循环 set
