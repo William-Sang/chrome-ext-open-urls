@@ -32,3 +32,12 @@ popup.js 读取修改 popup.html
 
 
 读取 UI 输入参考 sample：[A browser action with a popup that changes the page color](https://developer.chrome.com/extensions/examples/api/browserAction/set_page_color.zip)
+
+
+## TODO 代办事项
+
+- [ ] options.html 页面新建窗口打开
+- [ ] 对 URL 添加别名，popup 只显示别名
+- [ ] 把 options.html 设置页面链接移到右击选项里面去
+- [ ] 美化列表界面
+- [ ] 美化 options.html 页面
